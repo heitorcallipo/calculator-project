@@ -1,14 +1,15 @@
 body {
-    background-color: #271F30;
+    background-color: #6C5A49;
     padding-top: 150px;
 }
 
 div#calculator {
-    background-color: #6C5A49;
+    background-color: #271F30;
     width: 300px;
     height: 425px;
     margin: auto;
     border-radius: 30px;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.377);
 }
 
 div#display {
@@ -17,7 +18,7 @@ div#display {
     height: 55px;
     border: 3px solid black;
     border: 30px;
-    background-color: #D0FCB3;
+    background-color: #C8AD55;
     border-top-left-radius: 30px;
     border-top-right-radius: 30px;
 }
@@ -256,6 +257,6 @@ div#fifth {
     left: 20px;
 }
 
-.botao:hover {
+button:hover {
     background-color: #9BC59D;
 }
