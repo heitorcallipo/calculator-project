@@ -1,3 +1,8 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
 body {
     background-color: #6C5A49;
     padding-top: 150px;
@@ -257,6 +262,12 @@ div#fifth {
     left: 20px;
 }
 
-button:hover {
-    background-color: #9BC59D;
+footer{
+text-align: center;
+margin: 100px 0px 10px 10px;
+padding: 10px 0px 10px 0px;
+}
+
+footer > p > strong  {
+    color: #C8AD55;
 }
