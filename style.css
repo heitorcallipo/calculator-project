@@ -1,0 +1,261 @@
+body {
+    background-color: #271F30;
+    padding-top: 150px;
+}
+
+div#calculator {
+    background-color: #6C5A49;
+    width: 300px;
+    height: 425px;
+    margin: auto;
+    border-radius: 30px;
+}
+
+div#display {
+    padding: 5px;
+    width: 290px;
+    height: 55px;
+    border: 3px solid black;
+    border: 30px;
+    background-color: #D0FCB3;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+#zero {
+    width: 125px;
+    height: 60px;
+    margin-right: 10px;
+    border-radius: 50%;
+    color: #271F30;
+    background-color: #C6D8D3;
+    font: bolder;
+    font-size: 1.3em;
+}
+
+#point {
+    width: 55px;
+    height: 55px;
+    border-radius: 45%;
+    color: #271F30;
+    background-color: #C6D8D3;
+    font-size: 1.2em;
+    font-weight: bolder;
+}
+
+#equals {
+    width: 55px;
+    height: 55px;
+    margin-left: 10px;
+    border-radius: 45%;
+    color: #271F30;
+    background-color: #C6D8D3;
+    font-size: 1.2em;
+    font-weight: bolder;
+}
+
+#one {
+    width: 55px;
+    height: 55px;
+    border-radius: 45%;
+    color: #271F30;
+    margin-right: 10px;
+    background-color: #C6D8D3;
+    font-size: 1.2em;
+    font-weight: bolder;
+}
+
+#two {
+    width: 55px;
+    height: 55px;
+    border-radius: 45%;
+    color: #271F30;
+    margin-right: 10px;
+    background-color: #C6D8D3;
+    font-size: 1.2em;
+    font-weight: bolder;
+}
+
+#three {
+    width: 55px;
+    height: 55px;
+    border-radius: 45%;
+    color: #271F30;
+    margin-right: 10px;
+    background-color: #C6D8D3;
+    font-size: 1.2em;
+    font-weight: bolder;
+}
+
+#add {
+    width: 55px;
+    height: 55px;
+    border-radius: 45%;
+    color: #271F30;
+    background-color: #C6D8D3;
+    font-size: 1.2em;
+    font-weight: bolder;
+}
+
+#four {
+    width: 55px;
+    height: 55px;
+    border-radius: 45%;
+    color: #271F30;
+    margin-right: 10px;
+    background-color: #C6D8D3;
+    font-size: 1.2em;
+    font-weight: bolder;
+}
+
+#five {
+    width: 55px;
+    height: 55px;
+    border-radius: 45%;
+    color: #271F30;
+    margin-right: 10px;
+    background-color: #C6D8D3;
+    font-size: 1.2em;
+    font-weight: bolder;
+}
+
+#six {
+    width: 55px;
+    height: 55px;
+    border-radius: 45%;
+    color: #271F30;
+    margin-right: 10px;;
+    background-color: #C6D8D3;
+    font-size: 1.2em;
+    font-weight: bolder;
+}
+
+#minus {
+    width: 55px;
+    height: 55px;
+    border-radius: 45%;
+    color: #271F30;
+    background-color: #C6D8D3;
+    font-size: 1.2em;
+    font-weight: bolder;
+}
+
+#seven {
+    width: 55px;
+    height: 55px;
+    border-radius: 45%;
+    color: #271F30;
+    margin-right: 10px;
+    background-color: #C6D8D3;
+    font-size: 1.2em;
+    font-weight: bolder;
+}
+
+#eight {
+    width: 55px;
+    height: 55px;
+    border-radius: 45%;
+    margin-right: 10px;
+    color: #271F30;
+    background-color: #C6D8D3;
+    font-size: 1.2em;
+    font-weight: bolder;
+}
+
+#nine {
+    width: 55px;
+    height: 55px;
+    border-radius: 45%;
+    margin-right: 10px;
+    color: #271F30;
+    background-color: #C6D8D3;
+    font-size: 1.2em;
+    font-weight: bolder;
+}
+
+#multiply {
+    width: 55px;
+    height: 55px;
+    border-radius: 45%;
+    color: #271F30;
+    background-color: #C6D8D3;
+    font-size: 1.2em;
+    font-weight: bolder;
+}
+
+#delete {
+    width: 55px;
+    height: 55px;
+    border-radius: 45%;
+    margin-right: 10px;
+    color: #271F30;
+    background-color: #C6D8D3;
+    font-size: 1.2em;
+    font-weight: bolder;
+}
+
+#plumin {
+    width: 55px;
+    height: 55px;
+    border-radius: 45%;
+    margin-right: 10px;
+    color: #271F30;
+    background-color: #C6D8D3;
+    font-size: 1.2em;
+    font-weight: bolder;
+}
+
+#percentage {
+    width: 55px;
+    height: 55px;
+    border-radius: 45%;
+    margin-right: 10px;
+    color: #271F30;
+    background-color: #C6D8D3;
+    font-size: 1.2em;
+    font-weight: bolder;
+}
+
+#divide {
+    width: 55px;
+    height: 55px;
+    border-radius: 45%;
+    color: #271F30;
+    background-color: #C6D8D3;
+    font-size: 1.2em;
+    font-weight: bolder;
+}
+
+div#first {
+    position: relative;
+    top: 68px;
+    left: 20px;
+}
+
+div#second {
+    position: relative;
+    top: 60px;
+    left: 20px;
+}
+
+div#third {
+    position: relative;
+    top: 45px;
+    left: 20px;
+}
+
+div#fourth {
+    position: relative;
+    top: 32px;
+    left: 20px;
+}
+
+div#fifth {
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+
+.botao:hover {
+    background-color: #9BC59D;
+}
