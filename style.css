@@ -24,8 +24,14 @@ div#display {
     border: 3px solid black;
     border: 30px;
     background-color: #C8AD55;
+    border: 1px solid black;
     border-top-left-radius: 30px;
     border-top-right-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    font-size: 2rem;
+    
 }
 
 #zero {
