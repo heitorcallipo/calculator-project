@@ -1,5 +1,5 @@
 const display = document.getElementById("display")
-const botoes = document.querySelectorAll(".botao")
+const botoes = document.querySelectorAll(".btn")
 const botaoIgual = document.getElementById("equals")
 let operacao = ""
 const traducao = {
@@ -36,4 +36,3 @@ botaoIgual.addEventListener("click", () => {
     console.log(res)
     operacao = ""
 })
-
